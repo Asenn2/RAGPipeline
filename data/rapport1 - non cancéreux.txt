@@ -1,0 +1,19 @@
+Nom du patient : Lefebvre Marc  
+Âge : 45 ans  
+Date : 03/10/2023  
+Médecin : Dr. Bernard
+
+Motif de consultation : Toux sèche persistante et douleurs thoraciques intermittentes.
+
+Examens réalisés :
+- Bilan sanguin : Aucun marqueur tumoral détecté, valeurs normales.
+- Radiographie thoracique : Pas d’anomalie détectée.
+- Scanner thoracique : Épaississement bronchique bénin, aucun signe de masse ou de lésion suspecte.
+- Biopsie : Non réalisée, jugée non nécessaire.
+
+Diagnostic :
+Les symptômes sont liés à une bronchite chronique probablement d’origine allergique.  
+Aucun signe évocateur d’un cancer détecté.
+
+Conclusion :
+Aucune anomalie cancéreuse identifiée. Traitement symptomatique recommandé.

@@ -1,0 +1,19 @@
+Nom du patient : Dupont Jeanne  
+Âge : 56 ans  
+Date : 12/11/2023  
+Médecin : Dr. Martin
+
+Motif de consultation : Fatigue persistante et douleurs thoraciques.
+
+Examens réalisés :
+- Bilan sanguin : Présence de marqueurs tumoraux CA 15-3 légèrement élevés.
+- Radiographie thoracique : Masse suspecte dans le lobe supérieur du poumon gauche.
+- Scanner thoracique : Confirmation d’une masse de 3,2 cm avec contours irréguliers.
+- Biopsie : Présence de cellules malignes de type adénocarcinome pulmonaire.
+
+Diagnostic :
+Les résultats sont compatibles avec un diagnostic de cancer du poumon (adénocarcinome).  
+Un suivi avec le service d’oncologie est recommandé pour planifier une prise en charge thérapeutique adaptée.
+
+Conclusion :
+Diagnostic positif pour une pathologie cancéreuse.
