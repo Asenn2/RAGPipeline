@@ -158,10 +158,6 @@ Le projet inclut trois exemples de rapports médicaux dans le dossier `data/` :
 - `rapport1 - cancéreux.txt` : Autre exemple de rapport positif
 - `rapport1 - non cancéreux.txt` : Exemple de rapport négatif
 
-## ⚠️ Avertissement
-
-Ce projet est à but éducatif et de démonstration uniquement. Il ne doit **PAS** être utilisé pour des diagnostics médicaux réels. Consultez toujours un professionnel de santé qualifié pour tout diagnostic médical.
-
 ## 🤝 Contribution
 
 Les contributions sont les bienvenues ! N'hésitez pas à :
@@ -178,7 +174,3 @@ Ce projet est fourni tel quel à des fins éducatives.
 ## 👤 Auteur
 
 **Asenn2**
-
----
-
-*Développé avec ❤️ en utilisant CrewAI et LLaMA 3*
